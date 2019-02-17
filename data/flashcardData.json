@@ -1,0 +1,11 @@
+{
+    "data": {
+        "dictionaries": [
+            {
+                "name": "Morfix",
+                "url": "http://www.morfix.co.il/<WORD_TO_TRANSLATE>",
+                "logo": "https://school.morfix.co.il/Content/Images/he/logo_mobile.svg"
+            }
+        ]
+    }
+}
